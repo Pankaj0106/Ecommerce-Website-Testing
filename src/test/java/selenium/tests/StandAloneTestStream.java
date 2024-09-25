@@ -18,7 +18,7 @@ import selenium.pageobject.ProductCatalogue;
 public class StandAloneTestStream extends BaseTest{
 	public String productName = "ZARA COAT 3";
 	@Test(dataProvider="getData")
-	public void submitOrder(HashMap<String,String> mp) throws IOException{
+	public void submitOrder(HashMap<String,String> mp) throws IOException, InterruptedException{
 		// TODO Auto-generated method stub
 		
 		

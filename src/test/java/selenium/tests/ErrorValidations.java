@@ -27,7 +27,7 @@ public class ErrorValidations extends BaseTest{
 	}
 	
 	@Test
-	public void ProductErrorValidation() {
+	public void ProductErrorValidation() throws InterruptedException {
 		String gmail = "test1100@gmail.com";
 		String password = "Test@12345";
 		String productName = "ZARA COAT 3";
