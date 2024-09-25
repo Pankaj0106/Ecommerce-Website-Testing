@@ -1,0 +1,8 @@
+selenium\pageobject\ConfirmationPage.class
+selenium\pageobject\ProductCatalogue.class
+selenium\pageobject\CartPage.class
+selenium\TestUsingLoops.class
+selenium\pageobject\CheckoutPage.class
+selenium\pageobject\LandingPage.class
+selenium\pageobject\OrderPage.class
+selenium\abstractComponent\AbstractComponent.class
